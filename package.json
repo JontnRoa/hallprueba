@@ -1,0 +1,19 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graph.js",
+  "scripts": {
+    "start": "primer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "node-opcua": "^2.30.0",
+    "socket.io": "^3.1.0"
+  }
+}
