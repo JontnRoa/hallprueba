@@ -2,10 +2,10 @@
   "name": "app1",
   "version": "1.0.0",
   "description": "",
-  "main": "primer.js",
+  "main": "graph.js",
   "scripts": {
-    "start": "primer.js"
- },
+    "start": "graph.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
