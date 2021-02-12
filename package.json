@@ -4,7 +4,8 @@
   "description": "",
   "main": "graph.js",
   "scripts": {
-    "start": "graph.js"
+    "start": "primer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
