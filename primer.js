@@ -137,7 +137,7 @@ const clientmongo= new MongoClient(uri, {useUnifiedTopology: true});
              res.render('index.html');
          });
 
-         app.get('/', (req, res) => { 
+         app.get('/jolo', (req, res) => { 
               res.sendFile(__dirname + '/index.html');
         });
 
