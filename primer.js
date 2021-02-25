@@ -138,7 +138,7 @@ const clientmongo= new MongoClient(uri, {useUnifiedTopology: true});
          });
 
          app.get('/jolo', (req, res) => { 
-              res.sendFile(__dirname + '/index.html');
+              res.sendFile(__dirname + '/inex.html');
         });
 
       //  const io=socketio(app.listen(port1));
@@ -197,7 +197,7 @@ const clientmongo= new MongoClient(uri, {useUnifiedTopology: true});
           });
          
         
- 
+  
          console.log("Esuchando al puerto"+ 'port');
          console.log("visitar http://localhost:"+'port');
 
