@@ -4,7 +4,7 @@
   "description": "",
   "main": "graph.js",
   "scripts": {
-    "start": "primer.js",
+    "start": "node primer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
